@@ -14,10 +14,6 @@ This program analyzes a list of daily expenses.
 It calculates the total amount of money spent and the average expense per day.
 The program also finds the highest single expense and shows its category and date.
 All results are printed in a clear and readable format.
-📊 Expense Report
-------------------------------
-Total expenses: 10850 ₽
-Average daily expense: 1085.00 ₽
-Highest expense: 3000 ₽ (category: cat food, date: 2026-01-10)
 
 **Output:**
+
